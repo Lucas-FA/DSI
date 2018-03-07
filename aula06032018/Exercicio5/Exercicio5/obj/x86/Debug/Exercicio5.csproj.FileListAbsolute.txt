@@ -1,0 +1,4 @@
+G:\Etec\Informática 2017 - ETEC ZL 2º Módulo\DS I\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe
+G:\Etec\Informática 2017 - ETEC ZL 2º Módulo\DS I\Exercicio5\Exercicio5\bin\Debug\Exercicio5.pdb
+G:\Etec\Informática 2017 - ETEC ZL 2º Módulo\DS I\Exercicio5\Exercicio5\obj\x86\Debug\Exercicio5.exe
+G:\Etec\Informática 2017 - ETEC ZL 2º Módulo\DS I\Exercicio5\Exercicio5\obj\x86\Debug\Exercicio5.pdb

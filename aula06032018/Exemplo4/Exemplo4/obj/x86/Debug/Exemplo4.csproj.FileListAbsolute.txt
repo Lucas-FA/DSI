@@ -1,0 +1,5 @@
+G:\Etec\Informática 2017 - ETEC ZL 2º Módulo\DS I\Exemplo4\Exemplo4\bin\Debug\Exemplo4.exe
+G:\Etec\Informática 2017 - ETEC ZL 2º Módulo\DS I\Exemplo4\Exemplo4\bin\Debug\Exemplo4.pdb
+G:\Etec\Informática 2017 - ETEC ZL 2º Módulo\DS I\Exemplo4\Exemplo4\obj\x86\Debug\Exemplo4.csprojResolveAssemblyReference.cache
+G:\Etec\Informática 2017 - ETEC ZL 2º Módulo\DS I\Exemplo4\Exemplo4\obj\x86\Debug\Exemplo4.exe
+G:\Etec\Informática 2017 - ETEC ZL 2º Módulo\DS I\Exemplo4\Exemplo4\obj\x86\Debug\Exemplo4.pdb

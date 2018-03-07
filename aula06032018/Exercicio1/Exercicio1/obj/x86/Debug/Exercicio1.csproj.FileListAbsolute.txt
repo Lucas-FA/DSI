@@ -1,0 +1,4 @@
+G:\Etec\Informática 2017 - ETEC ZL 2º Módulo\DS I\Exercicio1\Exercicio1\bin\Debug\Exercicio1.exe
+G:\Etec\Informática 2017 - ETEC ZL 2º Módulo\DS I\Exercicio1\Exercicio1\bin\Debug\Exercicio1.pdb
+G:\Etec\Informática 2017 - ETEC ZL 2º Módulo\DS I\Exercicio1\Exercicio1\obj\x86\Debug\Exercicio1.exe
+G:\Etec\Informática 2017 - ETEC ZL 2º Módulo\DS I\Exercicio1\Exercicio1\obj\x86\Debug\Exercicio1.pdb

@@ -1,0 +1,5 @@
+G:\Etec\Informática 2017 - ETEC ZL 2º Módulo\DS I\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe
+G:\Etec\Informática 2017 - ETEC ZL 2º Módulo\DS I\Exercicio4\Exercicio4\bin\Debug\Exercicio4.pdb
+G:\Etec\Informática 2017 - ETEC ZL 2º Módulo\DS I\Exercicio4\Exercicio4\obj\x86\Debug\Exercicio4.exe
+G:\Etec\Informática 2017 - ETEC ZL 2º Módulo\DS I\Exercicio4\Exercicio4\obj\x86\Debug\Exercicio4.pdb
+G:\Etec\Informática 2017 - ETEC ZL 2º Módulo\DS I\Exercicio4\Exercicio4\obj\x86\Debug\Exercicio4.csprojResolveAssemblyReference.cache
