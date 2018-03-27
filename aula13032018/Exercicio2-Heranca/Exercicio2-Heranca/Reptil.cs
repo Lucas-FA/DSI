@@ -7,7 +7,12 @@ namespace Exercicio2
 {
     class Reptil : Animal
     {
-        String corEscama;
+        private String corEscama;
+
+        public override void emitirSom()
+        {
+            Console.WriteLine("O réptil emitiu som");
+        }
 
         public String getCorEscama()
         {
@@ -20,7 +25,7 @@ namespace Exercicio2
 
         public override string ToString()
         {
-            return "\n\nRéptil {" + "\nPeso = " + peso + "\nIdade = " + idade + "\nMembros = " + membros + "\nCor da escama = " + corEscama + '}';
+            return "\n\nRéptil {\nPeso = " + getPeso() + "\nIdade = " + getIdade() + "\nMembros = " + getMembros() + "\nCor da escama = " + corEscama + '}';
         }
     }
 }

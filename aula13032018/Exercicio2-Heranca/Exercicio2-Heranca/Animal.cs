@@ -7,22 +7,21 @@ namespace Exercicio2
 {
     class Animal
     {
-        public float peso;
-        public int idade;
-        public int membros;
+        private float peso;
+        private int idade;
+        private int membros;
 
-        public virtual string locomover(string str0)
+        public virtual void locomover()
         {
-            str0 = "Você se locomoveu";
-            return str0;
+            Console.WriteLine("O animal se locomoveu");
         }
-        public string alimentar(string str1)
+        public void alimentar()
         {
-            return str1 = "Você se alimentou";
+            Console.WriteLine("O animal se alimentou");
         }
-        public string emitirSom(string str2)
+        public virtual void emitirSom()
         {
-            return str2 = "Você emitiu som";
+            Console.WriteLine("O animal emitiu som");
         }
 
         public float getPeso()

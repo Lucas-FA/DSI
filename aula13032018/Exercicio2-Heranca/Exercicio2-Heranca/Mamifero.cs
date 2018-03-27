@@ -7,8 +7,13 @@ namespace Exercicio2
 {
     class Mamifero : Animal
     {
-        String corPelo;
-        String raca;
+        private String corPelo;
+        private String raca;
+
+        public override void emitirSom()
+        {
+            Console.WriteLine("O mamífero emitiu som");
+        }
 
         public String getCorPelo()
         {
@@ -27,14 +32,9 @@ namespace Exercicio2
             this.raca = raca;
         }
 
-        public override string locomover(string str0)
-        {
-            return str0 = "Você andou";
-        }
-
         public override string ToString()
         {
-            return "\n\nMamífero {" + "\nPeso = " + peso + "\nIdade = " + idade + "\nMembros = " + membros + "\nCor do pelo = " + corPelo + "\nRaça = " + raca + '}';
+            return "\n\nMamífero {\nPeso = " + getPeso() + "\nIdade = " + getIdade() + "\nMembros = " + getMembros() + "\nCor do pelo = " + corPelo + "\nRaça = " + raca + '}';
         }
     }
 }
