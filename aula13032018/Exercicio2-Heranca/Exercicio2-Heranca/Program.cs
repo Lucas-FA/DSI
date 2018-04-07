@@ -67,6 +67,9 @@ namespace Exercicio2
             Console.WriteLine(animal3.ToString());
             Console.WriteLine(animal4.ToString());
             Console.WriteLine(animal5.ToString());
+            animal5.reagir("acariciar");
+            animal5.reagir(9, 16);
+            animal5.reagir(true);
             Console.WriteLine(animal6.ToString());
             Console.WriteLine(animal7.ToString());
             

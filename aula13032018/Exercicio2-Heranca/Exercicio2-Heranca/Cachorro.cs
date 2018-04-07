@@ -23,6 +23,40 @@ namespace Exercicio2
         {
             Console.WriteLine("O cachorro abanou seu rabo");
         }
+        public String reagir(String atitude = "acariciar")
+        {
+            if (atitude == "brincar" || atitude == "acariciar")
+            {
+                Console.WriteLine("Abana o rabo");
+            }
+            else
+                Console.WriteLine("Rosna");
+            return atitude;
+        }
+        public int reagir(int hora = 9, int min = 16)
+        {
+            if (hora < 12)
+            {
+                Console.WriteLine("Abana o rabo e late");
+            }
+            else if (hora >= 18)
+            {
+                Console.WriteLine("Não liga para o dono");
+            }
+            else
+                Console.WriteLine("Abana o rabo");
+            return hora;
+        }
+        public Boolean reagir(Boolean dono = true)
+        {
+            if (dono == true)
+            {
+                Console.WriteLine("Abana o rabo e brinca");
+            }
+            else
+                Console.WriteLine("Avança e rosna");
+            return dono;
+        }
 
         public override string ToString()
         {

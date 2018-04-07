@@ -6,3 +6,8 @@ G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Exercicio2-Heranca\Exercici
 G:\Etec\Git Portable\DSI\aula13032018\Exercicio2-Heranca\Exercicio2-Heranca\obj\x86\Debug\Exercicio2-Heranca.exe
 G:\Etec\Git Portable\DSI\aula13032018\Exercicio2-Heranca\Exercicio2-Heranca\obj\x86\Debug\Exercicio2-Heranca.pdb
 G:\Etec\Git Portable\DSI\aula13032018\Exercicio2-Heranca\Exercicio2-Heranca\obj\x86\Debug\Exercicio2-Heranca.csprojResolveAssemblyReference.cache
+F:\Etec\Git Portable\DSI\aula13032018\Exercicio2-Heranca\Exercicio2-Heranca\obj\x86\Debug\Exercicio2-Heranca.exe
+F:\Etec\Git Portable\DSI\aula13032018\Exercicio2-Heranca\Exercicio2-Heranca\bin\Debug\Exercicio2-Heranca.exe
+F:\Etec\Git Portable\DSI\aula13032018\Exercicio2-Heranca\Exercicio2-Heranca\bin\Debug\Exercicio2-Heranca.pdb
+F:\Etec\Git Portable\DSI\aula13032018\Exercicio2-Heranca\Exercicio2-Heranca\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Etec\Git Portable\DSI\aula13032018\Exercicio2-Heranca\Exercicio2-Heranca\obj\x86\Debug\Exercicio2-Heranca.pdb
