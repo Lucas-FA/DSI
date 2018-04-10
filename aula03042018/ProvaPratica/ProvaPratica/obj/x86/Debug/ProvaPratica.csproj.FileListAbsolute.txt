@@ -1,0 +1,10 @@
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\ProvaPratica\ProvaPratica\bin\Debug\ProvaPratica.exe
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\ProvaPratica\ProvaPratica\bin\Debug\ProvaPratica.pdb
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\ProvaPratica\ProvaPratica\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\ProvaPratica\ProvaPratica\obj\x86\Debug\ProvaPratica.exe
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\ProvaPratica\ProvaPratica\obj\x86\Debug\ProvaPratica.pdb
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\ProvaPratica\ProvaPratica\obj\x86\Debug\ProvaPratica.exe
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\ProvaPratica\ProvaPratica\obj\x86\Debug\ProvaPratica.pdb
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\ProvaPratica\ProvaPratica\obj\x86\Debug\ProvaPratica.csprojResolveAssemblyReference.cache
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\ProvaPratica\ProvaPratica\bin\Debug\ProvaPratica.exe
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\ProvaPratica\ProvaPratica\bin\Debug\ProvaPratica.pdb
